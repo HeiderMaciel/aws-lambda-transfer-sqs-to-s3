@@ -30,9 +30,9 @@ public class ConfigurationInitializer {
   public static final String CFG_MAX_REMAINING_TIME_MS = "Lambda_Max_Remaining_Time_MS";
   public static final String CFG_MAX_REMAINING_PCT
       = "Lambda_Max_Remaining_Time_Percentage";
-  public static final String CFG_SQS_QUEUE = "queue_exemplo";
+  public static final String CFG_SQS_QUEUE = "SQS_Source_Queue";
   public static final String CFG_SQS_DELETION_THREADS = "SQS_Deletion_Threads";
-  public static final String CFG_S3_BUCKET_NAME = "bk_exemplo";
+  public static final String CFG_S3_BUCKET_NAME = "S3_Bucket_Name";
   public static final String CFG_S3_BUCKET_FOLDER = "S3_Bucket_Folder";
   public static final String CFG_S3_FILE_INITIATOR = "S3_File_Initiator";
   public static final String CFG_S3_FILE_PATTERN = "S3_File_Pattern";
